@@ -3,4 +3,3 @@ CoWorkNet aims to connect small entrepreneurs from across the country and help t
 
 https://cheyasheya.github.io/CoWorkNet/
 
-A website I created for a hackathon.
